@@ -1,4 +1,4 @@
-* To run the project on the web please visit https:// (I hae deployed the application on Hroku)
+
 
 * To run the app locally:(Follow each step only after the previous step is completed)
    1. Install nodeJS.
