@@ -1,4 +1,4 @@
-A simple To-Do list app created with React.
+A simple Reminder app created with React.
 
 * To run the app locally:(Follow each step only after the previous step is completed)
    1. Install nodeJS.
